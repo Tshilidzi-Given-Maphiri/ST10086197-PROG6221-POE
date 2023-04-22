@@ -1,0 +1,15 @@
+/Users/givenmaphiri/Projects/ST10086197_POE_Part1/ST10086197_POE_Part1/bin/Debug/net7.0/ST10086197_POE_Part1
+/Users/givenmaphiri/Projects/ST10086197_POE_Part1/ST10086197_POE_Part1/bin/Debug/net7.0/ST10086197_POE_Part1.deps.json
+/Users/givenmaphiri/Projects/ST10086197_POE_Part1/ST10086197_POE_Part1/bin/Debug/net7.0/ST10086197_POE_Part1.runtimeconfig.json
+/Users/givenmaphiri/Projects/ST10086197_POE_Part1/ST10086197_POE_Part1/bin/Debug/net7.0/ST10086197_POE_Part1.dll
+/Users/givenmaphiri/Projects/ST10086197_POE_Part1/ST10086197_POE_Part1/bin/Debug/net7.0/ST10086197_POE_Part1.pdb
+/Users/givenmaphiri/Projects/ST10086197_POE_Part1/ST10086197_POE_Part1/obj/Debug/net7.0/ST10086197_POE_Part1.csproj.AssemblyReference.cache
+/Users/givenmaphiri/Projects/ST10086197_POE_Part1/ST10086197_POE_Part1/obj/Debug/net7.0/ST10086197_POE_Part1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/givenmaphiri/Projects/ST10086197_POE_Part1/ST10086197_POE_Part1/obj/Debug/net7.0/ST10086197_POE_Part1.AssemblyInfoInputs.cache
+/Users/givenmaphiri/Projects/ST10086197_POE_Part1/ST10086197_POE_Part1/obj/Debug/net7.0/ST10086197_POE_Part1.AssemblyInfo.cs
+/Users/givenmaphiri/Projects/ST10086197_POE_Part1/ST10086197_POE_Part1/obj/Debug/net7.0/ST10086197_POE_Part1.csproj.CoreCompileInputs.cache
+/Users/givenmaphiri/Projects/ST10086197_POE_Part1/ST10086197_POE_Part1/obj/Debug/net7.0/ST10086197_POE_Part1.dll
+/Users/givenmaphiri/Projects/ST10086197_POE_Part1/ST10086197_POE_Part1/obj/Debug/net7.0/refint/ST10086197_POE_Part1.dll
+/Users/givenmaphiri/Projects/ST10086197_POE_Part1/ST10086197_POE_Part1/obj/Debug/net7.0/ST10086197_POE_Part1.pdb
+/Users/givenmaphiri/Projects/ST10086197_POE_Part1/ST10086197_POE_Part1/obj/Debug/net7.0/ST10086197_POE_Part1.genruntimeconfig.cache
+/Users/givenmaphiri/Projects/ST10086197_POE_Part1/ST10086197_POE_Part1/obj/Debug/net7.0/ref/ST10086197_POE_Part1.dll

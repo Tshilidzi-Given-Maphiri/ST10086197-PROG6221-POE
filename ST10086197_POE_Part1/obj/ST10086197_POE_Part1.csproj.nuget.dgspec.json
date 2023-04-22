@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/givenmaphiri/Projects/ST10086197_POE_Part1/ST10086197_POE_Part1/ST10086197_POE_Part1.csproj": {}
+  },
+  "projects": {
+    "/Users/givenmaphiri/Projects/ST10086197_POE_Part1/ST10086197_POE_Part1/ST10086197_POE_Part1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/givenmaphiri/Projects/ST10086197_POE_Part1/ST10086197_POE_Part1/ST10086197_POE_Part1.csproj",
+        "projectName": "ST10086197_POE_Part1",
+        "projectPath": "/Users/givenmaphiri/Projects/ST10086197_POE_Part1/ST10086197_POE_Part1/ST10086197_POE_Part1.csproj",
+        "packagesPath": "/Users/givenmaphiri/.nuget/packages/",
+        "outputPath": "/Users/givenmaphiri/Projects/ST10086197_POE_Part1/ST10086197_POE_Part1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/givenmaphiri/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
