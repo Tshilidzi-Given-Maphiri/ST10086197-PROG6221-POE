@@ -18,13 +18,17 @@ class Program
     public void SetIngredients(int numIngredients)
     {
         this.numIngredients = numIngredients;
+        //adds the user input into a new array of a different name in order to hold the steps for the ingredients.
         ingredientNames = new string[numIngredients];
         ingredientQuantities = new double[numIngredients];
         ingredientUnits = new string[numIngredients];
 
+        // a for loop, that runs depending on the number of ingredients stated by the user.
         for (int i = 0; i < numIngredients; i++)
         {
+            //user prompt
             Console.WriteLine("Enter ingredient name:");
+            //stores imnput into the array
             ingredientNames[i] = Console.ReadLine();
 
             Console.WriteLine("Enter ingredient quantity:");
