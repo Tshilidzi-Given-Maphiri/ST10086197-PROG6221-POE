@@ -39,6 +39,20 @@ class Program
         }
     }
 
+    public void SetSteps(int numSteps)
+    {
+        this.numSteps = numSteps;
+        steps = new string[numSteps];
+
+        for (int i = 0; i < numSteps; i++)
+        {
+            Console.WriteLine($"Enter step {i + 1}:");
+            steps[i] = Console.ReadLine();
+        }
+
+        
+    }
+
     static void Main(string[] args)
     {
         Program recipe = new Program();
@@ -47,9 +61,11 @@ class Program
         int numIngredients = int.Parse(Console.ReadLine());
         recipe.SetIngredients(numIngredients);
 
-        
+        Console.WriteLine("Enter the number of steps:");
+        int numSteps = int.Parse(Console.ReadLine());
+        recipe.SetSteps(numSteps);
 
-   
+
     }
 }
 
